@@ -1,6 +1,6 @@
 # Real Estate Research
 
-This repository contains empirical research and modeling work on real estate markets, completed as part of a senior seminar project.
+This repository contains empirical research and modeling work on real estate markets, completed as part of a senior seminar project. I look at the effect of inflation experience on housing ownerhsip in th U.S.
 
 ## Contents
 - `Constructing_Model.ipynb` – Data cleaning and model construction
