@@ -16,9 +16,8 @@ This repository contains empirical research and modeling work on real estate mar
 1. Clone the repository  
 2. Open notebooks in Jupyter or VS Code  
 3. Run notebooks in the suggested order:
-   - `data_visualization.ipynb`
-   - `Constructing_Model.ipynb`
-   - `Full_regression_v1.ipynb`
+   - `MedranoAleska_SeniorSeminar_VF`
+   - `Full_regression_vf.ipynb`
 
 ## Author
 Aleska Medrano  
