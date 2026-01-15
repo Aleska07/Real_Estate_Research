@@ -3,9 +3,7 @@
 This repository contains empirical research and modeling work on real estate markets, completed as part of a senior seminar project. I look at the effect of inflation experience on housing ownerhsip in th U.S.
 
 ## Contents
-- `Constructing_Model.ipynb` – Data cleaning and model construction
-- `Full_regression_v1.ipynb` – Main regression analysis and results
-- `data_visualization.ipynb` – Exploratory data analysis and visualizations
+- `Full_regression_v1.ipynb` – Main regression analysis and results - not succesful but big data management methods
 - `inflation_experience_vf.ipynb` – Analysis linking inflation experience to real estate outcomes
 - `MedranoAleska_SeniorSeminar_VF.pdf` – Final paper (full write-up and conclusions)
 
